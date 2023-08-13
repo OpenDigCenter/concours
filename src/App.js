@@ -3,7 +3,7 @@ import './App.css';
 
 const phases = [
   {
-    title: "Questions sur la vie de l'Apôtre",
+    title: "Questions sur sa vie",
     questions: [
       { question: "Quelle est la nationalité de l’Apôtre ?", answer: "Béninoise" },
       { question: "Quel est le nom fon de l’Apôtre ?", answer: "Gbetigan" },
