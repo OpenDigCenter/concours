@@ -5,7 +5,7 @@ const phases = [
   {
     title: "Questions sur sa vie",
     questions: [
-      { question: "Quelle est la nationalité de l’Apôtre ?", answer: "Béninoise" },
+      { question: "Quelle est la nationalité de l’Apôtre  ?", answer: "Béninoise" },
       { question: "Quel est le nom fon de l’Apôtre ?", answer: "Gbetigan" },
       { question:  "Quelle la date d’anniversaire de l’Apôtre", answer: "13 août 1974" },  
        { question: "A quelle âge Jésus lui est apparu pour la première fois ?", answer: "16 ans" },
